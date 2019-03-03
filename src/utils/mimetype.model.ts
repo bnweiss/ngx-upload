@@ -53,7 +53,7 @@ export const enum MineTypeEnum {
   Text_Csv = 'text/csv',
   Text_Dest = 'text/dest',
   Text_Html = 'text/html',
-  Text_Dest = 'text/map',
+  Text_Map = 'text/map',
   Text_Plain = 'text/plain',
   Text_RichText = 'text/richtext',
   Text_Sgml = 'text/sgml',
